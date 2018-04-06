@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\game\hangman\hangman_ver_0.3\source.cpp(152): warning C4018: '<' : signed/unsigned mismatch
+e:\game\hangman\hangman_ver_0.3\source.cpp(159): warning C4018: '<' : signed/unsigned mismatch
+e:\game\hangman\hangman_ver_0.3\source.cpp(179): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  hangman_ver_0.3.vcxproj -> E:\GAME\HANGMAN\Debug\hangman_ver_0.3.exe

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+Source.cpp(129): warning C4018: '<' : signed/unsigned mismatch
+Source.cpp(136): warning C4018: '<' : signed/unsigned mismatch
+Source.cpp(156): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+Source.cpp(226): warning C4129: ' ' : unrecognized character escape sequence
+  Generating code
+  Finished generating code
+  hangman_ver_0.3.vcxproj -> E:\GAME\HANGMAN\Release\hangman_ver_0.3.exe
